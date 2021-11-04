@@ -1,0 +1,10 @@
+<svg id="tiles1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="317.052" height="110" viewBox="0 0 317.052 110">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.023" y1="0.963" x2="0.98" y2="0.032" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#544cf9"/>
+      <stop offset="1" stop-color="#a21dff"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_5725" data-name="Path 5725" d="M5,0H311.666a5,5,0,0,1,5,5V105a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" fill="url(#linear-gradient)"/>
+  <path id="Path_5701" data-name="Path 5701" d="M316.151,66.1l-63.774,9.412S215.7,86.354,193.906,103.717,160,143.3,88.867,134.925C23,135.333,1.315,148.854,1.315,148.854v15.091s1.854,2.329,9.116,2.028c8.864-.15,300.473-.033,300.473-.033s6.807,0,6.1-5.794S316.151,66.1,316.151,66.1Z" transform="translate(0 -56)" fill="#fff" opacity="0.05"/>
+</svg>
