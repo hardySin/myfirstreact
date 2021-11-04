@@ -3,7 +3,7 @@ import Modal from 'react-bootstrap/Modal';
 import {Row ,Col} from 'react-bootstrap';
 import axios from 'axios';
 
- 
+ // this is the clientmasterEdit Modal.js by hardy
 export default function ClientMasterEditModal(props) {
 	 
 	const [client ,setClient]= useState({})
